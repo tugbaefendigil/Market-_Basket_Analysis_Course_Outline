@@ -41,4 +41,4 @@ Course Outline – Market Basket Analysis in Python
 * Lesson 4.3 – Creating a Kamada Kawai Graph
   * A learning objective: Use the draw_kamada_graph() to create force-directed graph.
 * Lesson 4.4 – Creating a Circular Network Graph & Spring Network Graph
-  *A learning objective: Use the draw_circular() to create a circular refence  and use the draw_spring() to create a graph with a spring layout.
+  * A learning objective: Use the draw_circular() to create a circular refence  and use the draw_spring() to create a graph with a spring layout.
