@@ -1,5 +1,4 @@
-# Market-_Basket_Analysis_Course_Outline
-Course Outline – Market Basket Analysis in Python
+# Course Outline – Market Basket Analysis in Python
 
 ## Chapter 1 – Introduction to Market Basket Analysis
   * Lesson 1.1 – What is Market Basket Analysis?
